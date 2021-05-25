@@ -26,4 +26,4 @@
 
 ### UML Diagram
 
-![uml-diagram](lab07.JPG)
+![img](lab07.JPG)
