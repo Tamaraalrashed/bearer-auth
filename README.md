@@ -3,11 +3,11 @@
 ### Author: Tamara Alrashed
 <hr>
 
-[Tests Report]()
+[Tests Report](https://github.com/Tamaraalrashed/bearer-auth/actions/workflows/node.js.yml)
 
-[Heroku Deployment]()
+[Heroku Deployment](https://tamara--bearer-auth.herokuapp.com/)
 
-[Pull Request]()
+[Pull Request](https://github.com/Tamaraalrashed/bearer-auth/pull/1)
 <hr>
 
 ### Run the app
