@@ -8,9 +8,9 @@ let users = {
   admin: { username: 'admin', password: 'password' },
 };
 // Pre-load our database with fake users
-beforeAll(async (done) => {
+beforeAll(async () => {
   await new Users(users.admin).save();
-  done();
+
 });
 describe('Auth Middleware', () => {
   // Mock the express req/res/next that we need for each middleware call
